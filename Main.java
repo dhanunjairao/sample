@@ -2,15 +2,17 @@ import java.util.*;
 
 public class Main {
     public static void main(String[] args) {
-        int n = 1;
-        do {
-            System.out.println("Say Hello");
-        } while (false);
-        while (n <= 5) {
-            System.out.print(n + " ");
-            n++;
-        }
-        System.out.println();
-        System.out.println("Program Exited");
+        public class Main {
+    public static void main(String[] args) {
+
+        System.out.println("Name: Dhanunjai Rao");
+        System.out.println("Age: 20");
+        System.out.println("Course: Computer Science");
+        System.out.println("College: SRM University");
+        System.out.println("City: Amaravati");
+
+    }
+}
+        
     }
 }
